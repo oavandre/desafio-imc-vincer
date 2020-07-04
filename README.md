@@ -56,5 +56,10 @@ GET 192.168.196.134:3003/genero/
 # PowerBI
 https://app.powerbi.com/reportEmbed?reportId=802e454c-edb4-4d72-9296-fe4be3f3f154&autoAuth=true&ctid=2320ab9a-0d61-4a5e-8c22-caa193c26a41&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
 
+Gênero: Masculino Feminino
+Altura: Número (cm)
+Peso: Número (Kg)
+Índice: 0 - Extremamente Fraco 1 - Fraco 2 - Normal 3 - Excesso de Peso 4 - Obesidade 5 - Obesidade Extrema
+
 ![Screenshot](Screenshot_BI.png)
 
