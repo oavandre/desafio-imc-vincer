@@ -7,13 +7,15 @@ http://desafioimc.oav.company/
 ![Screenshot](Screenshot_2.png)
 
 **Visao Geral**
-- [Backend]
-    - [Ruby](# v )
-    - [Rails](# v )
+- [Backend RoR] (Não concluído)
+    - [Ruby](# v2.5.1p57 )
+    - [Rails](# v4.2.10 )
+ - [Backend NodeJS] 
+    - [NodeJS](# v8 )
 - [FrontEnd]
     - [ReactJS](# v )
 - [DB]
-    - [MongoDB](# v )
+    - [MongoDB](# v4.0.0 )
 
 
 
@@ -28,6 +30,8 @@ bind_ip = 127.0.0.1
 port = 27017
 
 dbpath=/var/lib/mongodb
+
+![Screenshot](Screenshot_MongoDB.png)
 
 **verificar se o mongoDB esta ativo**
 $ sudo systemctl status mongodb
@@ -51,4 +55,6 @@ GET 192.168.196.134:3003/genero/
 
 # PowerBI
 https://app.powerbi.com/reportEmbed?reportId=802e454c-edb4-4d72-9296-fe4be3f3f154&autoAuth=true&ctid=2320ab9a-0d61-4a5e-8c22-caa193c26a41&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
+
+![Screenshot](Screenshot_BI.png)
 
