@@ -37,3 +37,11 @@ $ vim /etc/mongodb.conf
 
 rails s -b 127.0.0.1
 
+**testes API**
+POST 192.168.196.134:5000/genero/add/
+genero:Homem
+
+GET 192.168.196.134:3003/genero/
+
+
+# PowerBI
