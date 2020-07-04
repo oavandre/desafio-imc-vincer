@@ -14,6 +14,9 @@ Desafio para desenvolvedor Fullstack
 
 # MongoDB
 
+Resolvir mudar para banco de dados local para Online pra ser usado no BI
+mongodb+srv://oav:<pa7663GE>@cluster0.wg0hr.mongodb.net/<dbname>?retryWrites=true&w=majority
+
 mongodb://localhost:27017/imc
 
 bind_ip = 127.0.0.1
