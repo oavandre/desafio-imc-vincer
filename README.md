@@ -28,3 +28,9 @@ $ sudo systemctl status mongodb
 **deixar ativo quando reiniciar**
 $ systemctl enable mongodb
 $ vim /etc/mongodb.conf
+
+
+# Ruby on Rails
+
+rails s -b 127.0.0.1
+
