@@ -1,4 +1,13 @@
 # desafio-imc-vincer
+
+fazendo atualiza de estrutura para HEROKU
+
+ **Backend NodeJS**
+https://github.com/oavandre/backend-imc-nodejs-mongodb-api
+
+**FrontEnd ReactJS**
+https://github.com/oavandre/frontend-imc-ReactJS
+
 Desafio para desenvolvedor Fullstack
 
 http://desafioimc.oav.company/
@@ -11,7 +20,7 @@ http://desafioimc.oav.company/
     - [Ruby](# v2.5.1p57 )
     - [Rails](# v4.2.10 )
  - [Backend NodeJS] 
-    - [NodeJS](# v8 )
+    - [NodeJS](# v8.17.0 )
 - [FrontEnd]
     - [ReactJS](# v )
 - [DB]
