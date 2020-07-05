@@ -69,7 +69,7 @@ GET 192.168.196.134:3003/genero/
 
 
 # PowerBI
-https://app.powerbi.com/reportEmbed?reportId=802e454c-edb4-4d72-9296-fe4be3f3f154&autoAuth=true&ctid=2320ab9a-0d61-4a5e-8c22-caa193c26a41&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
+https://app.powerbi.com/reportEmbed?reportId=10296788-8f13-4d82-8e3f-bf9a818cbdb2&groupId=5a3f1e9b-4266-469a-b389-5a68b3eab515&autoAuth=true&ctid=2320ab9a-0d61-4a5e-8c22-caa193c26a41&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
 
 Gênero: Masculino Feminino
 Altura: Número (cm)
