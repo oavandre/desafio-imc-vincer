@@ -5,6 +5,8 @@ fazendo atualiza de estrutura para HEROKU
  **Backend NodeJS**
 https://github.com/oavandre/backend-imc-nodejs-mongodb-api
 
+https://backend-imc-nodejs-mongodb-api.herokuapp.com/imc/
+
 **FrontEnd ReactJS**
 https://github.com/oavandre/frontend-imc-ReactJS
 
