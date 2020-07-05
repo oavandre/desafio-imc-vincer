@@ -46,7 +46,7 @@ port = 27017
 
 dbpath=/var/lib/mongodb
 
-![Screenshot](Screenshot_MongoDB.png)
+![Screenshot](IMC_MongoDB.png)
 
 **verificar se o mongoDB esta ativo**
 $ sudo systemctl status mongodb
@@ -76,5 +76,5 @@ https://app.powerbi.com/reportEmbed?reportId=10296788-8f13-4d82-8e3f-bf9a818cbdb
 
 
 
-![Screenshot](Screenshotv_BI.png)
+![Screenshot](IMC_BI.png)
 
