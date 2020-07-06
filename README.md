@@ -1,37 +1,42 @@
 # desafio-imc-vincer
 Desafio para desenvolvedor Fullstack
 
-**Backend NodeJS**
- 
-GitHub = https://github.com/oavandre/backend-imc-nodejs-mongodb-api
-
-Heroku = https://backend-imc-nodejs-mongodb-api.herokuapp.com/imc/
-
-**FrontEnd ReactJS**
-
-GitHub = https://github.com/oavandre/frontend-imc-ReactJS
-
-Heroku = https://frontend-imc-reactjs.herokuapp.com/
-
-AWS = http://52.2.85.86:3000/
-
-
-
-http://desafioimc.oav.company/
-
-![Screenshot](IMC_1.png)
-![Screenshot](IMC_2.png)
-
 **Visao Geral**
 - [Backend RoR] (Não concluído)
     - [Ruby](# v2.5.1p57 )
     - [Rails](# v4.2.10 )
  - [Backend NodeJS] 
     - [NodeJS](# v8.17.0 )
+    **Backend NodeJS**
+ 
+    GitHub = https://github.com/oavandre/backend-imc-nodejs-mongodb-api
+
+    Heroku = https://backend-imc-nodejs-mongodb-api.herokuapp.com/imc/
+
+
 - [FrontEnd]
     - [ReactJS](# v )
+    GitHub = https://github.com/oavandre/frontend-imc-ReactJS
+
+    Heroku = https://frontend-imc-reactjs.herokuapp.com/
+
+    AWS = http://52.2.85.86:3000/
+
+
 - [DB]
     - [MongoDB](# v4.0.0 )
+
+
+**FrontEnd ReactJS**
+
+
+
+
+
+![Screenshot](IMC_1.png)
+![Screenshot](IMC_2.png)
+
+
 
 
 
