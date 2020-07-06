@@ -1,8 +1,7 @@
 # desafio-imc-vincer
+Desafio para desenvolvedor Fullstack
 
-fazendo atualiza de estrutura para HEROKU
-
- **Backend NodeJS**
+**Backend NodeJS**
  
 GitHub = https://github.com/oavandre/backend-imc-nodejs-mongodb-api
 
@@ -14,7 +13,9 @@ GitHub = https://github.com/oavandre/frontend-imc-ReactJS
 
 Heroku = https://frontend-imc-reactjs.herokuapp.com/
 
-Desafio para desenvolvedor Fullstack
+AWS = http://52.2.85.86:3000/
+
+
 
 http://desafioimc.oav.company/
 
